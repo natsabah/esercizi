@@ -11,7 +11,7 @@
     "start": "node esempioNode.js"
   },
   "dependencies": {
-    "http": " "
+   
   },
   "engines": {
     "node": ">=14"
