@@ -2,7 +2,7 @@
   "name": "esempioNode",
   "version": "1.0.0",
   "description": "bla bla bl a",
-  "main": "app.js",
+  "main": "esempioNode.js",
   "repository": "https://github.com/natsabah/esercizi",
   "author": "na",
   "license": "--",
@@ -11,7 +11,6 @@
     "start": "node esempioNode.js"
   },
   "dependencies": {
-   
   },
   "engines": {
     "node": ">=14"
